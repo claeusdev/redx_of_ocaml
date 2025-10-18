@@ -1,0 +1,4 @@
+(executable
+ (public_name test_ui)
+ (name main)
+ (libraries test_ui))
